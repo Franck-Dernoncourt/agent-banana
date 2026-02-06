@@ -1,4 +1,4 @@
-# 4KAgent: Agentic Any Image to 4K Super-Resolution
+# Agent banana: High-Fidelity Image Editing with Agentic Thinking and Tooling
 
 <div align="center">
 
