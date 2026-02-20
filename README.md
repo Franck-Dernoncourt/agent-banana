@@ -3,7 +3,7 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Project%20Page-8A2BE2)](https://agent-banana.github.io)&nbsp;
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2507.07105-b31b1b.svg)](https://arxiv.org/abs/2507.07105)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2602.09084-b31b1b.svg)](https://arxiv.org/abs/2602.09084)&nbsp;
 <!-- [![🤗 Benchmark](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-DIV--4K--50-yellow)]() -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=taco-group/4KAgent)
 
@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2507.07105">
+  <a href="https://arxiv.org/abs/2602.09084">
     <strong><em>Agent banana: High-Fidelity Image Editing with Agentic Thinking and Tooling</em></strong>
   </a>
 </p>
@@ -54,13 +54,13 @@ We present **Agent Banana**, a agentic planner–executor framework designed for
 
 ## Citation
 ```
-@article{zuo20254kagent,
-      title={4KAgent: Agentic Any Image to 4K Super-Resolution}, 
-      author={Yushen Zuo and Qi Zheng and Mingyang Wu and Xinrui Jiang and Renjie Li and Jian Wang and Yide Zhang and Gengchen Mai and Lihong V. Wang and James Zou and Xiaoyu Wang and Ming-Hsuan Yang and Zhengzhong Tu},
-      year={2025},
-      eprint={2507.07105},
+@article{ye2026agentbananahighfidelityimage,
+      title={Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling}, 
+      author={Ruijie Ye and Jiayi Zhang and Zhuoxin Liu and Zihao Zhu and Siyuan Yang and Li Li and Tianfu Fu and Franck Dernoncourt and Yue Zhao and Jiacheng Zhu and Ryan Rossi and Wenhao Chai and Zhengzhong Tu},
+      year={2026},
+      eprint={2602.09084},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.07105}, 
+      url={https://arxiv.org/abs/2602.09084}, 
 }
 ```
