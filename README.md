@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Project%20Page-8A2BE2)](https://agent-banana.github.io)&nbsp;
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2602.09084-b31b1b.svg)](https://arxiv.org/abs/2602.09084)&nbsp;
 <!-- [![🤗 Benchmark](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-DIV--4K--50-yellow)]() -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=taco-group/4KAgent)
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=taco-group/4KAgent)-->
 
 
 </div>
@@ -22,7 +22,7 @@
 
 
 <p align="center">
-    <img src="./assets/teaser.jpg" width=95%>
+    <img src="./assets/teaser.png" width=95%>
 <p>
 
 
