@@ -3,16 +3,16 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Project%20Page-8A2BE2)](https://agent-banana.github.io)&nbsp;
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2507.07105-b31b1b.svg)](https://arxiv.org/abs/2507.07105)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2507.07105-b31b1b.svg)](https://arxiv.org/abs/2602.09084)&nbsp;
 <!-- [![🤗 Benchmark](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-DIV--4K--50-yellow)]() -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=taco-group/4KAgent)
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=taco-group/4KAgent)-->
 
 
 </div>
 
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2507.07105">
+  <a href="https://arxiv.org/abs/2602.09084">
     <strong><em>Agent banana: High-Fidelity Image Editing with Agentic Thinking and Tooling</em></strong>
   </a>
 </p>
